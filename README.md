@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yaksman447
-- 👀 I’m interested in Cyber Security Cloud computing and anything technology
-- 🌱 I’m currently learning Digital forensics
+- 👀 I’m interested in Cyber Security, Techincal Content Writing and anything technology
+- 🌱 I’m currently building my skills to be a SOC analyst
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
